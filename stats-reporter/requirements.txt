@@ -1,0 +1,8 @@
+# stats-reporter has no external dependencies
+# Uses Python 3 standard library only:
+# - urllib.request
+# - json
+# - datetime
+# - sys
+#
+# Python 3.8+ required
