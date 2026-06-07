@@ -1,0 +1,17 @@
+{
+  "name": "power-scheduler",
+  "version": "1.0.0",
+  "description": "Auto start/stop Pterodactyl servers based on a schedule",
+  "main": "scheduler.js",
+  "scripts": {
+    "start": "node scheduler.js",
+    "list": "node scheduler.js --list",
+    "test": "node scheduler.js --test"
+  },
+  "author": "Aetherix-ops",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
